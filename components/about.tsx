@@ -19,30 +19,39 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        With 3 years of expertise in{" "}
+        <span className="font-medium">Machine Learning</span> and{" "}
+        <span className="font-medium">Deep Learning</span>, I specialize in
+        model development from scratch and harnessing the power of pre-trained
+        models as well using the latest libraries and frameworks. Proficient in{" "}
+        <span className="font-medium">MLOps</span>, I ensure{" "}
+        <span className="underline">end-to-end</span> excellence in machine
+        learning workflows.
+      </p>
+
+      <p className="mb-3">
+        In addition to my AI expertise, I excel in{" "}
+        <span className="font-medium">React</span> and{" "}
+        <span className="font-medium">Next.Js</span>, facilitating seamless web
+        app integration. I'm a perpetual learner, consistently embracing new
+        technologies. Furthermore, I am currently pursuing a{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          Bachelor's degree in Business and Information Technology
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        . This blend of technical and business knowledge equips me to
+        effectively understand the project.
+      </p>
+
+      <p className="mb-3">
+        My passion extends to crafting{" "}
+        <span className="font-extrabold">AGI</span>, an avenue to unlock the
+        universe's mysteries and drive human exploration of the cosmos.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        Let's connect to explore possibilities—whether you seek innovative
+        solutions or envision a collaborative future. Together, we can shape
+        tomorrow.
       </p>
     </motion.section>
   );
