@@ -44,7 +44,7 @@ export default function About() {
 
       <p className="mb-3">
         My passion extends to crafting{" "}
-        <span className="font-extrabold">AGI</span>, an avenue to unlock the
+        <span className="font-extrabold">AGI and Quantum Computing</span>, an avenue to unlock the
         universe's mysteries and drive human exploration of the cosmos.
       </p>
 

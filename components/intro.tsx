@@ -66,7 +66,7 @@ export default function Intro() {
         <span className="font-bold">
         AI <span className="font-medium">and</span> Machine Learning Engineer <span className="font-medium">and a</span> React/Next.Js developer</span>{" "}
         with <span className="font-bold">3 years</span> of experience. I strive
-        to make 🤖<span className="italic font-bold">AGI</span> 🧠 a reality.
+        to make 🤖<span className="italic font-bold">AGI and Quantum Computing</span> 🧠 a reality.
       </motion.h1>
 
       <motion.div
