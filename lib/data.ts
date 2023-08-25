@@ -63,24 +63,24 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "ReDesigner",
-    description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
     tags: ["Replicate AI", "Next.js", "PlanetScale", "Tailwind", "Prisma", "Typescript"],
     imageUrl: reDesigner,
+    liveUrl: "https://redesginer.vercel.app/",
+    sourceCodeUrl: "https://github.com/HHuzaifa/ReDesginer-Next.js-Replicate-AI"
   },
   {
     title: "Genius",
-    description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Replicate AI", "Open AI", "Stripe", "Prisma"],
     imageUrl: geNius,
+    liveUrl: "https://genius-rho.vercel.app/",
+    sourceCodeUrl: "https://github.com/HHuzaifa/Generative-AI-SAAS-Platform"
   },
   {
     title: "Movix",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "IMDB API", "Tailwind",, "Javascript", "Axios", "Redux"],
+    tags: ["React", "CSS", "Hooks", "IMDB API", "Tailwind", , "Javascript", "Axios", "Redux"],
     imageUrl: moVix,
+    liveUrl: "https://movix-two-opal.vercel.app/",
+    sourceCodeUrl: "https://github.com/HHuzaifa/Movix-React"
   },
 ] as const;
 
