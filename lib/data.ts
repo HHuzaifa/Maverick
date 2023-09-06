@@ -1,9 +1,8 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
 import geNius from "@/public/genius.png";
 import reDesigner from "@/public/redesigner.png";
+import dataAnalysis from "@/public/data-analysis.png";
 import moVix from "@/public/movix.png";
 
 export const links = [
@@ -67,6 +66,13 @@ export const projectsData = [
     imageUrl: reDesigner,
     liveUrl: "https://redesginer.vercel.app/",
     sourceCodeUrl: "https://github.com/HHuzaifa/ReDesginer-Next.js-Replicate-AI"
+  },
+  {
+    title: "Sales Data Analysis",
+    tags: ["Python", "Pandas", "Numpy", "Jupyter Notebook", "EDA", "Analysis", "Visualization", "Stripe", "Prisma"],
+    imageUrl: dataAnalysis,
+    liveUrl: "https://github.com/HHuzaifa/Sales-Data-Analysis-Pandas",
+    sourceCodeUrl: "https://github.com/HHuzaifa/Sales-Data-Analysis-Pandas"
   },
   {
     title: "Genius",
