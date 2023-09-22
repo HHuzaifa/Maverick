@@ -39,7 +39,7 @@ export default function About() {
           Bachelor's degree in Business and Information Technology
         </span>
         . This blend of technical and business knowledge equips me to
-        effectively understand the project.
+        effectively drive results.
       </p>
 
       <p className="mb-3">
