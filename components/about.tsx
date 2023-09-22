@@ -19,14 +19,14 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        With 3 years of expertise in{" "}
+        With 2 years of experience in{" "}
         <span className="font-medium">Machine Learning</span> and{" "}
-        <span className="font-medium">Deep Learning</span>, I specialize in
-        model development from scratch and harnessing the power of pre-trained
-        models as well using the latest libraries and frameworks. Proficient in{" "}
-        <span className="font-medium">MLOps</span>, I ensure{" "}
-        <span className="underline">end-to-end</span> excellence in machine
-        learning workflows.
+        <span className="font-medium">Deep Learning</span>, I specialize in data
+        analysis and preprocessing, model training from scratch and harnessing
+        the power of pre-trained models as well using the latest libraries and
+        frameworks. Proficient in <span className="font-medium">MLOps</span>, I
+        ensure <span className="underline">end-to-end</span> excellence in
+        machine learning workflows.
       </p>
 
       <p className="mb-3">
@@ -44,8 +44,9 @@ export default function About() {
 
       <p className="mb-3">
         My passion extends to crafting{" "}
-        <span className="font-extrabold">AGI and Quantum Computing</span>, an avenue to unlock the
-        universe's mysteries and drive human exploration of the cosmos.
+        <span className="font-extrabold">AGI and Quantum Computing</span>, an
+        avenue to unlock the universe's mysteries and drive human exploration of
+        the cosmos.
       </p>
 
       <p>
