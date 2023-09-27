@@ -20,26 +20,27 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         With 2 years of experience in{" "}
-        <span className="font-medium">Machine Learning</span> and{" "}
-        <span className="font-medium">Deep Learning</span>, I specialize in data
-        analysis and preprocessing, model training from scratch and harnessing
-        the power of pre-trained models as well using the latest libraries and
-        frameworks. Proficient in <span className="font-medium">MLOps</span>, I
-        ensure <span className="underline">end-to-end</span> excellence in
-        machine learning workflows.
+        <span className="font-medium"> 🔍📈 Data Science</span> and{" "}
+        <span className="font-medium">Analysis</span>, I specialize in data
+        collection, preprocessing, cleaning, and conducting both quantitative
+        and qualitative analyses. Proficient in{" "}
+        <span className="font-medium">
+          Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Matplotlib, and
+          Seaborn.
+        </span>
       </p>
 
       <p className="mb-3">
-        In addition to my AI expertise, I excel in{" "}
-        <span className="font-medium">React</span> and{" "}
-        <span className="font-medium">Next.Js</span>, facilitating seamless web
-        app integration. I'm a perpetual learner, consistently embracing new
-        technologies. Furthermore, I am currently pursuing a{" "}
+        In addition to my Data Science expertise, I also possess 💻🌐 web development
+        skills specifically using <span className="font-medium">React</span> and{" "}
+        <span className="font-medium">Next.Js</span> facilitating seamless web
+        app integration. Author at Medium.com Writing about tech, research, and
+        philosophy and currently pursuing a{" "}
         <span className="font-medium">
           Bachelor's degree in Business and Information Technology
         </span>
         . This blend of technical and business knowledge equips me to
-        effectively drive results.
+        effectively drive results 🚀.
       </p>
 
       <p className="mb-3">
