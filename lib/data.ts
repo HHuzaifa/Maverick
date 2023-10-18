@@ -34,28 +34,20 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Machine Learning Engineer",
+    title: "Data Scientist",
     location: "Remote",
     description:
-      "Providing cutting-edge Machine Learning solutions to the freelance tech landscape.",
+      "Delivering state-of-the-art quantitative and qualitative analytics solutions, leveraging ML and DL, to the freelance tech industry.",
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - Present",
+    date: "2021 - Present",
   },
   {
-    title: "Machine Learning Engineer | React/Next.Js Developer",
-    location: "Remote",
+    title: "Project Manager",
+    location: "Panaverse",
     description:
-      "Exploring The Fiverr freelance platform and providing cutting-edge Machine Learning and web app solutions.",
+      "Led a developer team to create Full-Stack Web 2.0 and Web 3.0 templates tailored for marketplaces and businesses. Emphasized UI/UX optimization, process streamlining, and rigorous testing for high performance and reliability.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - Present",
-  },
-  {
-    title: "Machine Learning Engineer | React/Next.Js Developer",
-    location: "Remote",
-    description:
-      "Exploring The Upwork freelance platform and providing cutting-edge Machine Learning and web app solutions.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2023 - Present",
+    date: "2022 - 2023",
   },
 ] as const;
 
