@@ -3,6 +3,8 @@ import { CgWorkAlt } from "react-icons/cg";
 import geNius from "@/public/genius.png";
 import reDesigner from "@/public/redesigner.png";
 import dataAnalysis from "@/public/data-analysis.png";
+import EDAStreamlit from "@/public/EDAStreamlit.png";
+import Chatpdf from "@/public/Chatpdf.png";
 import moVix from "@/public/movix.png";
 
 export const links = [
@@ -65,6 +67,20 @@ export const projectsData = [
     imageUrl: dataAnalysis,
     liveUrl: "https://github.com/HHuzaifa/Sales-Data-Analysis-Pandas",
     sourceCodeUrl: "https://github.com/HHuzaifa/Sales-Data-Analysis-Pandas"
+  },
+  {
+    title: "ChatPDF",
+    tags: ["Javascript", "Pinecone", "Radix-UI", "Axios", "Langchain", "Stripe", "TailwindCSS", "OpenAI-Edge"],
+    imageUrl: Chatpdf,
+    liveUrl: "https://chatpdf-h.vercel.app/",
+    sourceCodeUrl: "https://github.com/HHuzaifa/ChatPDF-Next.Js-OpenAI"
+  },
+  {
+    title: "EDA Stock Price",
+    tags: ["Javascript", "Pinecone", "Radix-UI", "Axios", "Langchain", "Stripe", "TailwindCSS", "OpenAI-Edge"],
+    imageUrl: EDAStreamlit,
+    liveUrl: "https://eda-sp500-stock-price.streamlit.app/",
+    sourceCodeUrl: "https://github.com/HHuzaifa/EDA-SP500-Stock-Price-Streamlit"
   },
   {
     title: "Genius",
