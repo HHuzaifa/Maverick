@@ -37,19 +37,19 @@ export const links = [
 export const experiencesData = [
   {
     title: "Data Scientist",
-    location: "Remote",
+    type: "Freelance",
     description:
       "Delivering state-of-the-art quantitative and qualitative analytics solutions, leveraging ML and DL, to the freelance tech industry.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - Present",
   },
   {
-    title: "Project Manager",
-    location: "Panaverse",
+    title: "Data Analyst",
+    type: "Ibex",
     description:
-      "Led a developer team to create Full-Stack Web 2.0 and Web 3.0 templates tailored for marketplaces and businesses. Emphasized UI/UX optimization, process streamlining, and rigorous testing for high performance and reliability.",
+      "Unveiling insights through data exploration and statistical analysis, harnessing Excel, SQL, and quantitative analytics prowess to empower strategic decision-making.",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - 2023",
+    date: "2023 - Present",
   },
 ] as const;
 
@@ -109,6 +109,7 @@ export const skillsData = [
   "D3.Js",
   "Scikit-Learn",
   "Seaborn",
+  "MS Excel",
   "Power BI",
   "Tableau",
   "PyTorch",

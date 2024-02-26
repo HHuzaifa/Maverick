@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        With 2 years of experience in{" "}
+        With 3 years of experience in{" "}
         <span className="font-medium"> 🔍📈 Data Science</span> and{" "}
         <span className="font-medium">Analysis</span>, I specialize in data
         collection, preprocessing, cleaning, and conducting both quantitative
