@@ -66,7 +66,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Huzaifa.</span> I'm a{" "}
         <span className="font-bold">
         Data Scientist <span className="font-medium">and</span> Analyst <span className="font-medium">and a</span> Next.Js developer</span>{" "}
-        with <span className="font-bold">2 years</span> of experience. I strive
+        with <span className="font-bold">3 years</span> of experience. I strive
         to make 🤖<span className="italic font-bold">AGI and Quantum Computing</span> 🧠 a reality.
       </motion.h1>
 
